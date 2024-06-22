@@ -4,7 +4,7 @@ command: >-
   python mlflow-autolog.py 
   --diabetes-csv ${{inputs.diabetes}}
 inputs:
-  diabetes:
+  canncanns:
     path: azureml:diabetes-data:1
     mode: ro_mount
 environment: azureml:basic-env-scikit@latest
