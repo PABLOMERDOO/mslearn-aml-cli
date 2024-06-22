@@ -1,6 +1,6 @@
 $schema: https://azuremlschemas.azureedge.net/latest/managedOnlineDeployment.schema.json
 model:
-  name: sample-mlflow-sklearn-model
+  name: canncann122
   version: 1
   path: model
   type: mlflow_model
